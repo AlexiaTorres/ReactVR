@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f61a54c-cc5b-479c-89da-4f5f5eb9c67b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/.watchmanconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/static_assets/candies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/static_assets/chess-world.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/static_assets/zorrito.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ReactVR.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/.flowconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/__tests__/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/c2478188a17af4e228eb5b8b09baf5fd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/haste-map-react-native-packager-5e2cc3751a391ceeca15d07c6fac069c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/index.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/00/1b72cflogError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/00/71fea7BaseMesh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/01/3e885cMatrixMath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/01/f2edb7OBJLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/02/7c0182MobilePanControls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/03/1ebb85MediaEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/03/debb20ReactUpdates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/04/3aff03LayoutAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/05/1373f8ReactPropTypeLocationNames.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/05/f154a2color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/06/faccf3SyntheticEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/07/1e2ac4NativeEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/07/63ea2bNavigatorIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/07/872180ReactReconciler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/08/1f15a5BoundingDimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/09/1b89a9ReactMultiChild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0a/3e8e47buildStyleInterpolator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/11df37LayoutPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/3bd787DeviceOrientationControls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/5358f2mapWithSeparator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/9adb7aYoga.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/da4b31_shouldPolyfillES6Collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/ed1578ListView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0b/f867e7pointsDiffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0c/fea4f1ReactUpdateQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0d/07e125PushNotificationIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0d/64b027DatePickerIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0d/80a42dGuiSys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0d/ebd01bReactNativeViewAttributes.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0e/512170Timing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0e/7496aaAlertIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0e/8f9c09StereoBasicTextureMaterial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0e/9bed9fGlyphTextures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0e/dcfbc4ExternalAssets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0f/3abdacStereoTextureUniforms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/0f/b822f7VrMath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/10/373001sizesDiffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/11/289720ReactHostComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/11/53787cTextureManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/11/774f63Model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/11/9bc4a4keyMirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/11/c7851bReactInvalidSetStateWarningHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/11/ebbc42ViewPagerAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/12/164303VRAudioContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/12/7fb3c5Sound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/13/8e2eeaSwipeableRow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/13/e9d51eimmutable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/14/506e2eExecutionEnvironment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/14/8df861NavigationExperimental.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/15/44cd38ReactOwner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/15/46a66aAnimated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/15/c8485eshouldUpdateReactComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/17/6a940dRCTDebugComponentOwnership.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/17/a99e18Clipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/17/b85e5fOVRUI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/17/f7ee01VRControls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/18/e828c1ModelLoaderRegistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/19/01d36eReactPureComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1a/4add4cReactNodeTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1a/aeb4d8VideoPano.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1b/0a6699LinkingManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1c/369b7bmerge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1d/1945ebNavigatorBreadcrumbNavigationBarStyles.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1d/3a6edfRCTNetworking.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1d/d5a52cToolbarAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1e/77569bdismissKeyboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1e/8c2895getSupportedFormats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1e/d37ea9dumpReactTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/1f/67cf7ffetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/20/02f9e7PickerAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/20/6621c6Scene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/21/218940Pano.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/21/770d35BugReporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/21/969b91rebound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/21/b81807ensureComponentIsNative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/21/fc76e6Networking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/22/f449aaTouchableOpacity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/23/56c4e6traverseAllChildren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/23/b0d0e7ReactNativeDOMIDOperations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/23/baa33cbabelHelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/24/9e8f11processTransform.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/24/b7ca99VrHeadModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/25/2568e8SegmentedControlIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/25/5e4051onlyChild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/25/ea2432ReactNativeART.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/26/35c8fcNavigatorSceneConfigs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/26/437773mergeHelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/26/6140b6ReactComponentTreeHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/26/943919StyleSheetPropType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/27/e35965Navigator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/27/e46441Vibration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/28/4e370efetchResource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/28/d006bdYellowBox.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/29/1d40d0throwOnWrongReactAPI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/29/296504ReactPropTypeLocations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/29/636abfinstantiateReactComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/29/cd02aeKeyEscapeUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2a/6cd7adMTLLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2b/6fa643RCTLog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2b/83aabfSystrace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2b/df65a7RCTAudioModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2c/191171AppRegistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2c/69a3a7ShadowPropTypesIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2c/ae5c02ReactNativeStyleAttributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2c/cec40bPosition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2c/e64e84update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2d/7de08cWebSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2d/97b9a9ReactCurrentOwner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2d/f36605Map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2e/1a7d1fOverlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2e/e99cc8ReactNativeTreeTraversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2f/49026cReactNative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/2f/ebddc9OculusPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/30/a819a6ReactHostOperationHistoryHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/32/4a309aReactNativeTagHandles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/33/46015eKeyboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/34/0db62cNativeAnimatedHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/34/50fe4fCylindricalPanel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/34/a83a6dSpotLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/35/3029fePerformanceOverlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/36/ac14cbHPano.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/36/b760fcRCTVideoModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/37/376ab7copyProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/38/45b9ceReactNativeReconcileTransaction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/39/0b4004Plane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/39/4ddb83reactProdInvariant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/39/8873ffPrefetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/39/af9af7createReactNativeComponentClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/39/d33601VrButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3a/d7f292bezier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3b/0bd58fReactSimpleEmptyComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3c/1b8dd5NavigatorNavigationBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3c/4429a6LayoutAndTransformOpacityPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3c/8eb57dGeolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3d/d3f082KeyboardEventInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3e/5d4a4fSpotLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/3e/f71014SnapshotViewIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/40/a02ce1PointLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/40/de0b55ReactChildren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/41/aaaa3fAndroidConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/42/47bd12NavigationTreeNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/42/623dc1flattenStyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/42/7415abColorPropType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/42/b15a14ResponderEventPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/45/12765dVibrationIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/46/b869acRCTExceptionsManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/46/f09182ProgressBarAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/46/f310beElementProperties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/47/0c1208deprecatedPropType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/47/aa1450GamepadEventInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/47/b11a3dNetworkAgent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/48/1b145bProgressViewIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/49/a5e536resolveAssetSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4a/42dcfaLinkedStateMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4a/648472OBJGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4b/326035BatchedBridge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4b/96879bTouchableWithoutFeedback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4c/57d504AssetRegistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4c/83321eemptyFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4c/c12b4cReactFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4c/ef8022class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4d/25f169DirectionalLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4d/31fe00RCTSourceCode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4d/9e6662PickerIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4e/10d77bCylinder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4e/4568dfcommons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4f/509d29Image.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/4f/9ebb74bundleFromRoot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/50/8c9f45isNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/51/419490DirectionalLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/52/9c6b6eNativeModules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/52/d4c1d5TabBarIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/53/69fa85ExceptionsManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/53/c4d4e8getIteratorFn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/54/dacb46ReactVR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/54/f37165NativeMethodsMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/55/375b0aDrawerLayoutAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/55/a8ba8cSwipeableListView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/55/c9b9c5ViewStylePropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/55/d09973ReactPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/56/826874JSTimersExecution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/57/2ec9b1deepFreezeAndThrowOnMutationInDev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/58/f042c7RCTResourceManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/58/fdbe7bdefineLazyObjectProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/59/04d188ReactNativePropRegistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5c/33d15aGuiSysEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5c/3571c6RayCaster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5c/5cbf88RawText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5c/a9c52dNetInfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5d/459d80LayoutAndTransformPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5d/538b8dThreeShim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5d/8392bfDatePickerAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5d/9980b3Location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5d/c60a9esymbolicateStackTrace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5e/34a907index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5e/5cde68TouchEventInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5e/8f9de1warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5e/97d4d1TouchEventUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5e/c6dccaImagePickerIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/5f/74a1a9View.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/60/2e8e6dPooledClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/60/94439eVideoPano.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/61/40fa8bdone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/61/cb4c76ResponderTouchHistoryStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/62/349facJSTimers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/62/65c0fbdeepDiffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/62/a86b9eLayoutPropTypes.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/63/6d7c39AppContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/63/ba9318Linking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/65/3c0bdcmatricesDiffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/65/3d223dtoIterator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/65/4959bcprelude_dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/65/870c5ecustom-event-target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/67/57a9bdEventEmitterWithHolding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/67/d4416bInspectorUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/67/f407c4ReactNativeComponentTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/68/adbb97VrAnimated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/69/35aa1cUnimplementedView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/69/a5afc3ReactElementSymbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6a/859807requireNativeComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6c/1a7678Transaction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6c/9e7c08InspectorOverlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6d/7333d8MousePanControls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6d/b7babbtraverseAllChildren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6d/e66cd1PanResponder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6e/8f428eListViewDataSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6f/aaa776core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/6f/f0b19dEventPluginHub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/70/4f6cc9SamplingProfiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/70/a936e8createGlyph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/70/fe3782Prefetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/71/82250dPromise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/71/953423setStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/71/9d97aapolyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/73/b06d72isEmpty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/73/e49d36InteractionMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/74/645b45findNodeHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/74/7a6e5dindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/75/1fa41eflattenChildren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/75/513a59transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/76/48ec34NavigatorNavigationBarStylesIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/76/9d71e3mergeFast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/76/d9e2b6UIViewUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/77/d7d454AmbientLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/79/7f53acI18nManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/79/bf7b3eTaskQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7a/8c075bTouchableNativeFeedback.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7a/b02dfcStereoShaderLib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7a/c24b88ReactEmptyComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7a/d4472aTimePickerAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7a/e0b3c7getDevServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7b/50b184extractURL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7b/a9c5e8Text.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7c/fd4af1runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7d/0974f1UIManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7d/42850bRCTDeviceEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7d/58872bVideo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7d/762a19nativeRequestAnimationFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7e/04addaReactNativeTextComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7e/b2c321RCTVideoPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7e/b4dcfbtexture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7e/bfeba4ReactComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7f/555a66merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/7f/ef2f3fensurePositiveDelayProps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/80/788f4cerror-guard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/81/118cf3require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/81/477639SpringConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/81/7f25a4Model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/81/9ee67dDimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/81/ff0c7aTextStylePropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/82/499104path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/83/065cc0JSInspector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/83/0bd6b7InspectorPanel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/83/6ba3c9BorderBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/83/980c56ResponderSyntheticEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/86/87e036EventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/86/da2e9bImage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/86/fd39a0ReactInstrumentation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/87/3f5183Touchable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/87/573c86Set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/87/5c50dcReactInstanceMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/87/805b67requestAnimationFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/87/f3a04acanDefineProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/88/35bb8aStyleSheet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/88/7e5dbfassetPathUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/88/e0a282Settings.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/89/092697CallbackQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/89/680a1fStatusBarIOS.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/89/8164c0infoLog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/89/925847OVRVideo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8a/69ed42VRAudioBufferSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8a/a0867bReactNativeContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8a/c07cf4VideoUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8a/f87a6eReactDebugTool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8b/eb0d6bMouseRayCaster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8c/b87fb9Alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8d/395562normalizeColor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/36e455MediaError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/3cd383ControllerInfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/5b8246VRAudioComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/647b47StyleSheetValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/7796e8RCTNativeAppEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/dca53cLayoutAndTransformColorPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/8f/f02de5binaryToBase64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/90/830a5bBackAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/91/404310Picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/91/5f6761Module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/92/09db7cSphere.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/92/27f3deEventValidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/92/7e358fAssetSourceResolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/92/c44878event-target.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/93/60479aButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/93/b439d0AmbientLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/93/f2d4e5RefCountCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/94/0e14d2MapView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/94/14ac1ainsetsDiffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/94/3adf68es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/94/ac4193ReactChildReconciler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/95/fe0d4fisPositive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/96/3af22bgetIteratorFn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/96/f6ed5fCubePano.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/97/0e6a47StyleInspector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/97/3647e3UIManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/97/f9131dshallowEqual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/98/72e8c8HMRLoadingView.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/98/8a61e6ReactElementValidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/98/9d2163HMRClient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/98/eb62f1ReactNativeContainerInfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/98/ffe178AppControls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/99/62fa76renderApplication.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/99/92aadcOBJParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9a/178afdTextInputState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9a/7e49a1shallowCompare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9a/d254ccReactDOMFactories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9b/f8aaf1stacktrace-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9c/0b5396processDecelerationRate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9c/37bd6aLiveEnvCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9d/0e11fcMessageQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9d/68efb5ReactPerf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9e/4d8a28checkReactTypeSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9e/4dbb6bPixelRatio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/9f/875767ReactPropTypesSecret.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a0/5c24b0ObjModelLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a0/bce468PermissionsAndroid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a0/c35ea0React.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a1/0e4b24guid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a1/c86c4cEventPluginUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a2/0492abcreateStrictShapeTypeChecker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a3/9253a2KeyboardAvoidingView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a4/43f6d4DefaultFont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a4/69f217BaseView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a4/d894e4WebView.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a5/1a0b5fErrorUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a5/8cbbb8createRootView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a6/264204ScrollResponder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a6/9d20feBoxInspector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a7/778917getSupportedFormats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a7/a113c3ReactComponentEnvironment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a7/ea6bdbrejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a8/1c0179NavigatorBreadcrumbNavigationBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a8/74fbe5fetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/a9/dbfacaTouchableHighlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/aa/d221eastringifySafe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ab/087f79resolveBoxStyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ab/d89988ReactElementSymbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ac/423885RCTHeadModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ac/f97014checkReactTypeSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ad/8f4863ReactRef.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ae/3077c8Share.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ae/4fb984ActionSheetIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/af/374ab6KeyEscapeUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/af/a2bc61invariant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/af/a9c179ToastAndroid.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b0/0170efsetupDevtools.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b0/7b5effSound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b1/dd3c4bEventPluginRegistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b3/102e3dReactStateSetters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b3/c5c3a9browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b5/9adb8cthree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b5/9ed46bWebSocketModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b6/37e328Subscribable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b6/69672fHistory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b7/d03acfBasicVideoPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b8/56da16EventHolder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b8/67f426LiveEnvCamera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b8/d3c395ReactFeatureFlags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b8/db8b9aReactNativeAttributePayload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b9/47a5e3Number.es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/b9/837871PooledClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ba/778a08TimerMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ba/c2e769mixInEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/bc/61e4b9LayoutAndTransformTintPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/bc/b0478cindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/bd/49ca66NetworkOverlay.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/bd/8645a7asset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/be/dc3079accumulateInto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/be/fe3272parseErrorStack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/bf/8a52bfEdgeInsetsPropType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c1/47df02processColor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c1/aa6ab3performanceNow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c1/e0177aReactVRConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c2/0d88f8String.prototype.es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c2/b7be8bindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c2/dc3389ReactNativeMount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c2/f24c70ReactComponentWithPureRenderMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c4/681528ReactPropTypeLocationNames.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c4/753c8bRCTEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c4/82fe09EventPropagators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c4/b9f88eRCTRenderingPerf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c5/904cd7openFileInEditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c5/f580f4React.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c6/27733dDocumentSelectionState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c7/606ceeArray.prototype.es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c7/92fc06Inspector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c8/e28c1bforEachAccumulated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c9/ae7565InspectorAgent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/c9/db1115ReactEventEmitterMixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/cc/742e7bNavigationEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/cd/49dadfUIView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ce/2bbefeView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ce/7c9019ReactNativeBaseComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ce/ae82eeAppState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/cf/01a801Video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/cf/0e5403ReactNativeEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/cf/828758CameraRoll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d0/d2c35dVRVideoComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d1/10baadPano.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d1/60b843ReactElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d1/86fb5eReactDefaultBatchingStrategy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d2/01c28ePlane.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d2/58f30fSDFFont.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d2/6e03d7react-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d2/818061NavigatorNavigationBarStylesAndroid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d2/e54e1fVRAudioBufferManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d3/381fecCylinder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d3/967a7amergeInto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d4/5c35a2react.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d4/8c0081event-wrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d4/e7d178ReactNativeBridgeEventPlugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d5/0ec5a6console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d6/2539c7index.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d6/59809dVectorGeometry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d6/a01841VRInstance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d7/3a2f43Modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d7/c7da76Easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d8/36bc19Scene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d8/cff86fGlyphs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d8/e2ac79verifyPropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d8/f6f8e2VrSoundEffects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d9/01e05fAdSupportIOS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d9/1f448aImageEditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/d9/4646c4ReactPropTypesSecret.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/da/00abdeEventInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/da/2a00eaSwitch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/da/abe7deStatusBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/db/73b2c1ImageStylePropTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/db/88e70dRCTInputControls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/db/a92b59ReactClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/dc/4c6894ReactVersion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/dd/4e965eReactLink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/dd/bf6338Box.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/df/846f3cTouchHistoryMath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e0/09d01cImageResizeMode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e0/e60360ReactNativeDefaultInjection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e1/368271EventSubscriptionVendor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e2/4e0f47StereoOffsetRepeats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e3/5be413accumulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e3/c82c8bText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e5/8ce973NavigationContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e5/c772cdInterpolation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e5/e8505eRefreshControl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e6/2c8941Platform.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e6/625edcAsyncLocalStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e6/d9f2c6ReactNativeGlobalResponderHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e7/4de490clamp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e7/8e3c1aInteractionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e7/b50754PointPropType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/e9/d16926MTLParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ea/02fd1cXMLHttpRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ea/f471b8InitializeCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/eb/2294cdclient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/eb/517f55ReactCompositeComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/eb/8ec77aNavigationEventEmitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/eb/cb7202VRVideoPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/eb/d25d45ElementBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ec/55c3ffSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ec/b10ca9ReactNativeEventPluginOrder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ec/b379b8Player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ed/caf913ActivityIndicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ee/1ac87agetReactData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ee/4aaa98VideoControl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ee/692c32MediaPlayerState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ef/a3bf99keyOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ef/ac188aCylindricalPanel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f1/87e291RCTBindedResource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f1/d1bf55ReactNativeComponentEnvironment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f1/e22dedImageStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f1/ff9f56StaticRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f2/99cb90SwipeableListViewDataSource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f3/eb0967TextInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f3/fd7438ReactNoopUpdateQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f4/2c449aPromise.native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f4/64e0adVREffect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f5/026128Sphere.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f5/b7eb1creact-vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f5/e54a81ReactErrorUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f6/47e556ScrollView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f6/61faa3PointLight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f6/7fba25EventSubscription.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f6/9a2034PerformanceLogger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/f7/c268b5Array.es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fa/5f6fd2cloneReferencedElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fa/701bceemptyObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fa/76924dAnimatedImplementation.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fa/81c16aperformance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fa/aac287VideoControlGlyphs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fb/3f290bEmitterSubscription.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fb/842fd0MouseEventInput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fd/26ad54ARTSerializablePath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fd/6affedFormData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fd/769b96HeapCapture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fe/226972WebSocketEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fe/fb1a28Object.es7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/fe/ff4720AsyncStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ff/5d7452TVEventHandler.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ff/83447cBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/react-native-packager-cache-b9b9b14/ff/f24a4cTransformPropTypes.vr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/rn-cli.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/vr/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WelcomeToVR/vr/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ReactVR" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WelcomeToVR/vr/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vr.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WelcomeToVR/index.vr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chess-world.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WelcomeToVR/static_assets/chess-world.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WelcomeToVR/vr/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rn-cli.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WelcomeToVR/rn-cli.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WelcomeToVR/index.vr.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/WelcomeToVR/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1087" />
+    <option name="y" value="24" />
+    <option name="width" value="1303" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReactVR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReactVR" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReactVR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReactVR" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WelcomeToVR" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReactVR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReactVR" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WelcomeToVR" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f61a54c-cc5b-479c-89da-4f5f5eb9c67b" name="Default" comment="" />
+      <created>1498242036578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498242036578</updated>
+      <workItem from="1498242038749" duration="2423000" />
+      <workItem from="1498244556678" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2441000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1087" y="24" width="1303" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/vr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/index.vr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/static_assets/chess-world.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/vr/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/rn-cli.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/static_assets/chess-world.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/vr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/rn-cli.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/vr/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomeToVR/index.vr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
